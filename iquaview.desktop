@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=QGIS
+Comment=Geographic Information System
+GenericName=Geographic Information System
+Exec=/usr/share/code/code --unity-launch %F
+Icon=iquaview
+Type=Application
+StartupNotify=false
+StartupWMClass=Code
+Categories=Qt;Education;Science;Geography;
+MimeType=application/x-qgis-project;image/tiff;image/jpeg;image/jp2;application/x-raster-aig;application/x-raster-ecw;application/x-raster-mrsid;application/x-mapinfo-mif;application/x-esri-shape;
+Actions=new-empty-window;
+Keywords=map;globe;postgis;wms;wfs;ogc;osgeo;
+
